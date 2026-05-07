@@ -14,10 +14,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-007-bit&theme=dark" alt="GitHub Streak" />
-
 ## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=akshay-007-bit" alt="trophy" />
